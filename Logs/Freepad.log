@@ -1,0 +1,58 @@
+2020-11-16 11:46:36,036 [1] INFO Freepad.App -         *************  App Started  *************        
+2020-11-16 11:46:36,207 [1] INFO Freepad.App -         =============  Started Logging  =============        
+2020-11-16 11:46:46,173 [1] INFO Freepad.Pages.Managebooks - Method Call : LoadBooks()
+2020-11-16 11:46:48,001 [1] INFO Freepad.Pages.Managebooks - Result : LoadBooks() -- cnt => 1
+2020-11-16 11:46:48,001 [1] INFO Freepad.Pages.Managebooks - Method Call : LoadWebView()
+2020-11-16 11:46:51,017 [1] INFO Freepad.Pages.Managebooks - Method Completed : LoadWebView()
+2020-11-16 11:46:55,438 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID1
+2020-11-16 11:46:55,454 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 318
+2020-11-16 11:46:56,657 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID2
+2020-11-16 11:46:56,657 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 111
+2020-11-16 11:46:57,610 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID3
+2020-11-16 11:46:57,610 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 45
+2020-11-16 11:47:00,985 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID2
+2020-11-16 11:47:00,985 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 111
+2020-11-16 11:47:02,032 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID1
+2020-11-16 11:47:02,032 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 318
+2020-11-16 11:47:04,173 [1] INFO Freepad.Createbook - Method Call : LoadBookId()
+2020-11-16 11:47:04,204 [1] INFO Freepad.Createbook - Result : LoadBookId() => 1
+2020-11-16 11:47:06,907 [1] INFO Freepad.App -         =============  Logging Ended =============        
+2020-11-16 11:47:06,907 [1] INFO Freepad.App -         *************  App Ended  *************        
+2020-11-16 12:54:26,414 [1] INFO Freepad.App -         *************  App Started  *************        
+2020-11-16 12:54:26,430 [1] INFO Freepad.App -         =============  Started Logging  =============        
+2020-11-16 12:54:30,805 [1] INFO Freepad.Createbook - Method Call : LoadBookId()
+2020-11-16 12:54:31,023 [1] INFO Freepad.Createbook - Result : LoadBookId() => 1
+2020-11-16 12:55:27,695 [1] INFO Freepad.Pages.Writebook - Method Call : Loadbooknames()
+2020-11-16 12:55:27,883 [1] INFO Freepad.Pages.Writebook - Method Call : LoadWebView()
+2020-11-16 12:55:28,851 [1] INFO Freepad.Pages.Writebook - Method Completed : LoadWebView()
+2020-11-16 12:55:36,289 [1] INFO Freepad.App -         =============  Logging Ended =============        
+2020-11-16 12:55:36,289 [1] INFO Freepad.App -         *************  App Ended  *************        
+2020-12-04 20:13:35,905 [1] INFO Freepad.App -         *************  App Started  *************        
+2020-12-04 20:13:35,921 [1] INFO Freepad.App -         =============  Started Logging  =============        
+2020-12-04 20:13:45,405 [1] INFO Freepad.Createbook - Method Call : LoadBookId()
+2020-12-04 20:13:48,483 [1] INFO Freepad.Createbook - Result : LoadBookId() => 1
+2020-12-04 20:14:15,804 [1] INFO Freepad.App -         =============  Logging Ended =============        
+2020-12-04 20:14:15,804 [1] INFO Freepad.App -         *************  App Ended  *************        
+2021-02-27 14:54:05,372 [1] INFO Freepad.App -         *************  App Started  *************        
+2021-02-27 14:54:05,528 [1] INFO Freepad.App -         =============  Started Logging  =============        
+2021-02-27 14:54:16,353 [1] INFO Freepad.Pages.Managebooks - Method Call : LoadBooks()
+2021-02-27 14:54:20,856 [1] INFO Freepad.Pages.Managebooks - Result : LoadBooks() -- cnt => 1
+2021-02-27 14:54:20,856 [1] INFO Freepad.Pages.Managebooks - Method Call : LoadWebView()
+2021-02-27 14:54:24,013 [1] INFO Freepad.Pages.Managebooks - Method Completed : LoadWebView()
+2021-02-27 14:54:29,106 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID1
+2021-02-27 14:54:29,122 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 318
+2021-02-27 14:54:30,525 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID3
+2021-02-27 14:54:30,525 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 45
+2021-02-27 14:54:32,059 [1] INFO Freepad.Pages.Managebooks - Parameters : GetNotecontent() => NTID2
+2021-02-27 14:54:32,059 [1] INFO Freepad.Pages.Managebooks - Result : GetNotecontent() -- len => 111
+2021-02-27 14:54:35,044 [1] INFO Freepad.Createbook - Method Call : LoadBookId()
+2021-02-27 14:54:35,091 [1] INFO Freepad.Createbook - Result : LoadBookId() => 1
+2021-02-27 14:54:36,262 [1] INFO Freepad.Pages.Writebook - Method Call : Loadbooknames()
+2021-02-27 14:54:36,294 [1] INFO Freepad.Pages.Writebook - Method Call : LoadWebView()
+2021-02-27 14:54:36,731 [1] INFO Freepad.Pages.Writebook - Method Completed : LoadWebView()
+2021-02-27 14:54:38,278 [1] INFO Freepad.Pages.Managebooks - Method Call : LoadBooks()
+2021-02-27 14:54:38,278 [1] INFO Freepad.Pages.Managebooks - Result : LoadBooks() -- cnt => 1
+2021-02-27 14:54:38,278 [1] INFO Freepad.Pages.Managebooks - Method Call : LoadWebView()
+2021-02-27 14:54:48,730 [1] INFO Freepad.Pages.Managebooks - Method Completed : LoadWebView()
+2021-02-27 14:54:50,246 [1] INFO Freepad.App -         =============  Logging Ended =============        
+2021-02-27 14:54:50,246 [1] INFO Freepad.App -         *************  App Ended  *************        
